@@ -39,7 +39,7 @@ setuptools.setup(
         "typing-extensions==3.10.0.2",
         "word2number==1.1",
         "timefhuman==0.0.5",
-        "pendulum==2.1.2",
+        "pendulum==3.0.0",
         "typing-extensions==3.10.0.2",
         "setuptools",
     ],
