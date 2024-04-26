@@ -40,7 +40,7 @@ setuptools.setup(
         "word2number==1.1",
         "timefhuman==0.0.5",
         "pendulum==3.0.0",
-        "typing-extensions==3.10.0.2",
+        "typing-extensions>=4.1.1",
         "setuptools",
     ],
     # extras_require='requirements.txt',
