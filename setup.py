@@ -24,7 +24,7 @@ setuptools.setup(
     keywords="clickup, clickup api, python, clickupython",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Imzachjohnson/clickupython",
+    url="https://github.com/welworx/clickuppython",
     project_urls={
         "Documentation": "https://clickupython.readthedocs.io/en/latest/",
         "Bug Reports": "https://github.com/Imzachjohnson/clickupython/issues",
